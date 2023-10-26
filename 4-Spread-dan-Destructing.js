@@ -26,4 +26,4 @@ let {address: { street, city } } = dataSaya;
 
 console.log(dataSaya);
 console.log(`Street: ${street}`);
-console.log(`City: ${city}`);
+console.log(`City: ${city}`); 
